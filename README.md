@@ -1,4 +1,4 @@
-# ChatGPT Prompt Engineering for Developers
+# ChatGPT Prompt Engineering for Developers 
 
 I followed the tutorials from [DeepLearning AI's course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) to find best practices and explanations / advice on prompt engineering for developers.
 
